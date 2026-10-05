@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Eerste week",
+    "text": "Het werkplekleren is begonnen en ik begon er met interesse en moed mee maar ook een beetje stress op dag 1, maar dit ging na een tijdje weg en begon toch al snel van het bedrijf te houden. Iedereen is vriendelijk en het is een heel net bedrijf. Ik moest beginnen met alle accounts op te zetten en daarna al onderzoek doen naar amazon bedrock, waar ik de komende maanden mee zal werken, dit zas best interessant aangezien ik nog niet zelf aan een ai moest werken. Daarna maoest ik de laatste 2 dagen aan mockups werken voor mybenefit, het platform waar de gebruikers komen. We moeten een handige manier vinden als de gebruiker de helpdesk inschakeld dat de vragen die het al aan de ai heeft gevraagd, op een nette manier naar de adminpanel gaan, waar ik ook aan een mockup bezig ben maar die is nog niet klaar. In het algemeen vond ik het een leuke week en het bedrijf maakt een goede indruk.",
+    "category": "wins",
+    "date": "2026-09-25"
+  },
+  {
+    "id": 1,
+    "title": "In het begin van de week verder gewerkt aan de mockups, hier kwamen telkens nog verdere aanpassingen aan door feedback maar woensdag was het goed, ook mijn eerste sprintmetingen en standups gehad, natuurlijk was het nu niet het meest opwindende maar wel voor bij te leren wat ik altijd nodig heb. Ik heb daarna verder in de week mijn eerste ticket gekregen. Ik moet de chatdb opzetten, die de chatberichten en conversaties moet opslagen van de chatbot. Dit gebeurt allemaal met java, xml en maven. Het was een leuke bezigheid want ik had nog niet eerder een dit voor een bedrijf gedaan. Het ging redelijk vlot maar moest af en toe wel collega's voor hulp vragen om verder te gaan. Ook heb ik nog wel een werkpuntje om iets meer op te schrijven als iemand iets zegt want soms vergeet ik wat ik moet doen en dan moet ik het nog is vragen.",
+    "text": "lessons learned ",
+    "date": "2026-10-02"
+  }
+  
+  
+]
