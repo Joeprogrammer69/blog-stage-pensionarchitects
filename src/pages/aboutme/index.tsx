@@ -24,11 +24,11 @@ const AboutMePage = () => {
           <div className="facts">
             <div className="fact">
               <span>Leeftijd</span>
-              <strong>23</strong>
+              <strong>24</strong>
             </div>
             <div className="fact">
               <span>Stage</span>
-              <strong>sep 2025 – jan 2026</strong>
+              <strong>sep 2026 – jan 2027</strong>
             </div>
             <div className="fact">
               <span>Contact</span>

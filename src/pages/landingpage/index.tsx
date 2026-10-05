@@ -25,8 +25,10 @@ const LandingPage = () => {
           <p className="eyebrow">Werkplekleren Zoersel</p>
           <h1>Een rustig logboek van mijn stage bij Pension Architects.</h1>
           <p className="lede">
-            Hier bewaar ik wat ik leer, bouw en tegenkom tijdens mijn stage:
-            CRM, ERP, klantenwerk en de kleine overwinningen ertussenin.
+            Dit is een logboek over mijn ervaringen en lessen die ik heb geleerd bij
+            Pension Architects. Hier deel ik mijn inzichten, successen en uitdagingen
+            tijdens mijn stageperiode. Het is een plek waar ik mijn gedachten en
+            reflecties kan vastleggen en delen met anderen.
           </p>
           <div className="hero-actions">
             <Link className="btn btn-primary" href="/blogspage">
