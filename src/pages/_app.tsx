@@ -10,7 +10,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <footer className="site-footer">
         <div className="footer-inner">
           <span>Steven Van Cleemput · werkplekleren Pension Architects</span>
-          <span>2025 — 2026</span>
+          <span>2026 — 2027</span>
         </div>
       </footer>
     </div>
