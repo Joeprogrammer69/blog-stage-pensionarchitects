@@ -9,7 +9,7 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <Component {...pageProps} />
       <footer className="site-footer">
         <div className="footer-inner">
-          <span>Steven Van Cleemput · werkplekleren Deskdrive</span>
+          <span>Steven Van Cleemput · werkplekleren Pension Architects</span>
           <span>2025 — 2026</span>
         </div>
       </footer>

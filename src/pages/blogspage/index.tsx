@@ -30,7 +30,7 @@ const BlogPage = () => {
   return (
     <main className="page">
       <Head>
-        <title>Blogs · Deskdrive Journal</title>
+        <title>Blogs · Pension Architects Journal</title>
       </Head>
       <div className="section-head">
         <div>
