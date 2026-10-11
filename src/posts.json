@@ -12,6 +12,13 @@
     "text": "lessons learned ",
     "date": "2026-10-02"
   }
+  {
+    "id": 2,
+    "title": "In het begin van de week chatdb afgewerkt, hier kwamen telkens no features bij zoals security tests en ook al leek dit ingewikkeld, viel het eigenlijk nog mee. Mijn eerste ticket(de chatdb opstellen) moet nog gereiewed worden maar denk wel dat die voor 90% goed is. De tweede ticket was de service-layer. Hier heb ik 2-3 dagen over gedaan om gewoon de code infrastuctuur en hoe ik dit zou doen op te zoeken. Het was het moeilijkste van de stage tot nu toe, maar heb toch een deeltje van de opdracht afgewerkt. Er wordt verwacht dat dit wel minstens 2 weken gaat duren om af te krijgen dus ik moet niet al te veel druk voelen. ",
+    "text": "lessons learned ",
+    "date": "2026-10-09"
+  }
+  
   
   
 ]
