@@ -17,8 +17,13 @@
     "title": "In het begin van de week chatdb afgewerkt, hier kwamen telkens no features bij zoals security tests en ook al leek dit ingewikkeld, viel het eigenlijk nog mee. Mijn eerste ticket(de chatdb opstellen) moet nog gereiewed worden maar denk wel dat die voor 90% goed is. De tweede ticket was de service-layer. Hier heb ik 2-3 dagen over gedaan om gewoon de code infrastuctuur en hoe ik dit zou doen op te zoeken. Het was het moeilijkste van de stage tot nu toe, maar heb toch een deeltje van de opdracht afgewerkt. Er wordt verwacht dat dit wel minstens 2 weken gaat duren om af te krijgen dus ik moet niet al te veel druk voelen. ",
     "text": "lessons learned ",
     "date": "2026-10-09"
+  },
+  {
+    "id": 3,
+    "title": " deze week verder aan de tweede ticket gewerkt, de service layer had een filter nodig, conversie, retrieval filter en een historie functionaliteit samen met web socket streaming. Hier ben ik nog even mee bezig geweest en is bijna af, Dit was heel uitdagend maar Kiro(ai) hielp wel met het assisteren. Het is een geweldige tool om je in een moeilijk project te begeleiden. Ook ben ik donderdag naar een aws event in Amsterdam gegaan. Hier moeste we onse use case voorstellen, dit was een sandbox omgeving waar je een vraag aan de ai kon stellen. Het eerste van de dag waren enkele voorstellingen , maar daarna werkte we aan deze case, zo hielpen ze ons met onze retrieval, nu krijgen we niet alleen de generieke plannen bovenaan. Ook hebben ze ons agent core getoond en hoe we dit integreren en nog veel meer. Het was een heel interessante dag, zelf had ik nog niet een uitgebreide kennis van al de zaken die besproken werden dus heb ik vooral geluisterd en wat notities genomen. Het was wel heel interessant en was ook van de indruk van het gebouw dat high tech was en het eten was goed.  ",
+    "text": "wins ",
+    "date": "2026-10-16"
   }
-  
   
   
 ]
