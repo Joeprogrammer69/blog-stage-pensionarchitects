@@ -4,25 +4,31 @@
     "title": "Eerste week",
     "text": "Het werkplekleren is begonnen en ik begon er met interesse en moed mee maar ook een beetje stress op dag 1, maar dit ging na een tijdje weg en begon toch al snel van het bedrijf te houden. Iedereen is vriendelijk en het is een heel net bedrijf. Ik moest beginnen met alle accounts op te zetten en daarna al onderzoek doen naar amazon bedrock, waar ik de komende maanden mee zal werken, dit zas best interessant aangezien ik nog niet zelf aan een ai moest werken. Daarna maoest ik de laatste 2 dagen aan mockups werken voor mybenefit, het platform waar de gebruikers komen. We moeten een handige manier vinden als de gebruiker de helpdesk inschakeld dat de vragen die het al aan de ai heeft gevraagd, op een nette manier naar de adminpanel gaan, waar ik ook aan een mockup bezig ben maar die is nog niet klaar. In het algemeen vond ik het een leuke week en het bedrijf maakt een goede indruk.",
     "category": "wins",
-    "date": "2026-09-25"
+    "date": "2026-09-21"
   },
   {
     "id": 1,
     "title": "In het begin van de week verder gewerkt aan de mockups, hier kwamen telkens nog verdere aanpassingen aan door feedback maar woensdag was het goed, ook mijn eerste sprintmetingen en standups gehad, natuurlijk was het nu niet het meest opwindende maar wel voor bij te leren wat ik altijd nodig heb. Ik heb daarna verder in de week mijn eerste ticket gekregen. Ik moet de chatdb opzetten, die de chatberichten en conversaties moet opslagen van de chatbot. Dit gebeurt allemaal met java, xml en maven. Het was een leuke bezigheid want ik had nog niet eerder een dit voor een bedrijf gedaan. Het ging redelijk vlot maar moest af en toe wel collega's voor hulp vragen om verder te gaan. Ook heb ik nog wel een werkpuntje om iets meer op te schrijven als iemand iets zegt want soms vergeet ik wat ik moet doen en dan moet ik het nog is vragen.",
     "text": "lessons learned ",
-    "date": "2026-10-02"
+    "date": "2026-09-28"
   },
   {
     "id": 2,
     "title": "In het begin van de week chatdb afgewerkt, hier kwamen telkens no features bij zoals security tests en ook al leek dit ingewikkeld, viel het eigenlijk nog mee. Mijn eerste ticket(de chatdb opstellen) moet nog gereiewed worden maar denk wel dat die voor 90% goed is. De tweede ticket was de service-layer. Hier heb ik 2-3 dagen over gedaan om gewoon de code infrastuctuur en hoe ik dit zou doen op te zoeken. Het was het moeilijkste van de stage tot nu toe, maar heb toch een deeltje van de opdracht afgewerkt. Er wordt verwacht dat dit wel minstens 2 weken gaat duren om af te krijgen dus ik moet niet al te veel druk voelen. ",
     "text": "lessons learned ",
-    "date": "2026-10-09"
+    "date": "2026-10-05"
   },
   {
     "id": 3,
     "title": " deze week verder aan de tweede ticket gewerkt, de service layer had een filter nodig, conversie, retrieval filter en een historie functionaliteit samen met web socket streaming. Hier ben ik nog even mee bezig geweest en is bijna af, Dit was heel uitdagend maar Kiro(ai) hielp wel met het assisteren. Het is een geweldige tool om je in een moeilijk project te begeleiden. Ook ben ik donderdag naar een aws event in Amsterdam gegaan. Hier moeste we onse use case voorstellen, dit was een sandbox omgeving waar je een vraag aan de ai kon stellen. Het eerste van de dag waren enkele voorstellingen , maar daarna werkte we aan deze case, zo hielpen ze ons met onze retrieval, nu krijgen we niet alleen de generieke plannen bovenaan. Ook hebben ze ons agent core getoond en hoe we dit integreren en nog veel meer. Het was een heel interessante dag, zelf had ik nog niet een uitgebreide kennis van al de zaken die besproken werden dus heb ik vooral geluisterd en wat notities genomen. Het was wel heel interessant en was ook van de indruk van het gebouw dat high tech was en het eten was goed.  ",
     "text": "wins ",
-    "date": "2026-10-16"
+    "date": "2026-10-12"
+  },
+  {
+    "id": 4,
+    "title": " Helaas ben ik deze week van woensdag tot en met vrijdag ziek geweest dus er is minder dat ik hier kan vertellen, maandag heb ik vooral is gedocumenteerd aangezien dat dit een requirement van de school is, heb ik dus dat voor mijn code is zodat die wat overzichtelijk is als ik hier bv over een maand terug op kom en ook javadoc toegevoegd overal waar dat miste. Dinsdag heb ik een test geschreven om de active/closed state op endtime te controleren. Ook ervoor gezorgd dat ik mybenefit lokaal kan runnen en geconstateerd dat mijn webstreaming nog niet compleet wat en hier nog een aanpassing in gedaan. Over het algemeen is er niet veel gedaan deze week dus ben ik van plan er vol gas op te geven volgende week.  ",
+    "text": "fails ",
+    "date": "2026-10-19"
   }
   
   
