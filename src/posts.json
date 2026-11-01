@@ -29,6 +29,12 @@
     "title": " Helaas ben ik deze week van woensdag tot en met vrijdag ziek geweest dus er is minder dat ik hier kan vertellen, maandag heb ik vooral is gedocumenteerd aangezien dat dit een requirement van de school is, heb ik dus dat voor mijn code is zodat die wat overzichtelijk is als ik hier bv over een maand terug op kom en ook javadoc toegevoegd overal waar dat miste. Dinsdag heb ik een test geschreven om de active/closed state op endtime te controleren. Ook ervoor gezorgd dat ik mybenefit lokaal kan runnen en geconstateerd dat mijn webstreaming nog niet compleet wat en hier nog een aanpassing in gedaan. Over het algemeen is er niet veel gedaan deze week dus ben ik van plan er vol gas op te geven volgende week.  ",
     "text": "fails ",
     "date": "2026-10-19"
+  },
+  {
+    "id": 5,
+    "title": " Voor dat ik weet hoe dat ik mijn service layer echt werkt in de praktijk moet ik dat ook in een soort van placeholder chat gaan steken. Daarmee hield ik mij maandag en woensdag mee bezig(dinsdag was ik in uz leuven). Het leek alsof het makkelijk was maar dat was het niet want ik moest allemaal security lagen omzeilen en nog code aanpassingen doen om dit lokaal te kunnen tonen in die chat. Donderdag en vrijdag heb ik dan pas echt een knowledge base gebouwd, hier had ik misschien iets eerder aan kunnen beginnen maar had dit pas echt door wanneer ik dit echt in de praktijk zag met de placeholder chat, een wijze les waarom je altijd genoeg moet testen voor dat je released. Uiteindelijk is het gelukt ook al was dit ook veel trial en error. Vrijdag dan nog verder opgekuist en proberen streaming op de chat te zetten maar dat gaat helaas niet, alleen op een webpagina die de chat laat zien. Het was wel een week met veel vallen en opstaan , maar ik heb geduld getoond en vragen gesteld.  ",
+    "text": "lessons learned ",
+    "date": "2026-10-25"
   }
   
   
