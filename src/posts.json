@@ -35,6 +35,12 @@
     "title": " Voor dat ik weet hoe dat ik mijn service layer echt werkt in de praktijk moet ik dat ook in een soort van placeholder chat gaan steken. Daarmee hield ik mij maandag en woensdag mee bezig(dinsdag was ik in uz leuven). Het leek alsof het makkelijk was maar dat was het niet want ik moest allemaal security lagen omzeilen en nog code aanpassingen doen om dit lokaal te kunnen tonen in die chat. Donderdag en vrijdag heb ik dan pas echt een knowledge base gebouwd, hier had ik misschien iets eerder aan kunnen beginnen maar had dit pas echt door wanneer ik dit echt in de praktijk zag met de placeholder chat, een wijze les waarom je altijd genoeg moet testen voor dat je released. Uiteindelijk is het gelukt ook al was dit ook veel trial en error. Vrijdag dan nog verder opgekuist en proberen streaming op de chat te zetten maar dat gaat helaas niet, alleen op een webpagina die de chat laat zien. Het was wel een week met veel vallen en opstaan , maar ik heb geduld getoond en vragen gesteld.  ",
     "text": "lessons learned ",
     "date": "2026-10-25"
+  },
+  {
+    "id": 6,
+    "title": "Deze week ging het eerder traag vanwege een aanhoudend probleem met de streaming van het chatbotantwoord, ik moest voor ticket 9671 de streaming in een werkend chatsysteem in mybenefit integreren met nieuwe chatui. De ui ging vlot om toe te passen en ziet er uit zoals de wireframes maar om die echt werkend te krijgen is nog een issue Ik moest ook wel geregeld wachten voordat ik verder kon omdat hulp eerst van een collega kwam die van thuis uit werkte, maar vrijdag was hij erbij en brainstormde we samen. Hij kon het wel werkend krijgen maar voor het einde van de dag pullde ik zijn changes in en werkte het bij mij niet, hoe dat komt is voor volgende week om uit te zoeken. Deze week was zwaar want het ergste aan software development is wanneer je te lang met hetzelvde probleem zit het is leuk om problemen op te lossen, maar als dit te lang duurt begint dat mentaal te wegen. Ik hoop dat dit zo snel mogelijk volgende week opgelost geraakt, voorlopig zit ik nog op schema aangezien we genoeg tijd krijgen voor onze tickets af te werken.  ",
+    "text": "fails",
+    "date": "2026-11-02"
   }
   
   
