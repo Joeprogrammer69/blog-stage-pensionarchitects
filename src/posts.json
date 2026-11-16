@@ -41,6 +41,12 @@
     "title": "Deze week ging het eerder traag vanwege een aanhoudend probleem met de streaming van het chatbotantwoord, ik moest voor ticket 9671 de streaming in een werkend chatsysteem in mybenefit integreren met nieuwe chatui. De ui ging vlot om toe te passen en ziet er uit zoals de wireframes maar om die echt werkend te krijgen is nog een issue Ik moest ook wel geregeld wachten voordat ik verder kon omdat hulp eerst van een collega kwam die van thuis uit werkte, maar vrijdag was hij erbij en brainstormde we samen. Hij kon het wel werkend krijgen maar voor het einde van de dag pullde ik zijn changes in en werkte het bij mij niet, hoe dat komt is voor volgende week om uit te zoeken. Deze week was zwaar want het ergste aan software development is wanneer je te lang met hetzelvde probleem zit het is leuk om problemen op te lossen, maar als dit te lang duurt begint dat mentaal te wegen. Ik hoop dat dit zo snel mogelijk volgende week opgelost geraakt, voorlopig zit ik nog op schema aangezien we genoeg tijd krijgen voor onze tickets af te werken.  ",
     "text": "fails",
     "date": "2026-11-02"
+  },
+  {
+    "id": 7,
+    "title": "Eindelijk! Het chatbot antwoord streamt nu correct in de chat, het probleem lag dat ik het verkeerde profiel gebruikte om naar sns te sturen, het profiel van mijn werkeleijke account verschilde met het genee dat ik terugkreeg in de logs, dus door een Iam account aan te maken en in de env variabele te zetten werkte het wel, ook een index toegevoegd die de juiste volgorde van chunks doorstuurt. Daarna aan citations gewerkt, dat ze relevant waren en de ui aangepast. Verder nog kleinere dingen op het einde vand e week zoals een loading indicator en wat bugfixes. Deze week was helemaal verschillend met vorige week, terwijl ik vorige week veel vast zat en dus niet veel klaar kreeg was dat deze week andersom. Dat geeft wel een motivatieboost.  ",
+    "text": "wins",
+    "date": "2026-11-09"
   }
   
   
